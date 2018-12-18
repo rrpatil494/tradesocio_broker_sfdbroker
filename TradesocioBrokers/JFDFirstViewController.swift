@@ -6,4 +6,4 @@
 //  Copyright © 2018 Tradesocio. All rights reserved.
 //
 
-import Foundation
+import Foundation     
